@@ -1,0 +1,24 @@
+.service_component{
+    position: absolute;
+    right: -59rem;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.service_component img{
+    margin: 2rem 2rem;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.Services{
+    display: block;
+}
+
+.service_heading{
+    margin-left: 2rem;
+    margin-right: 10rem;
+    width: 3rem;
+}
