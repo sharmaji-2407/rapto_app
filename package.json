@@ -2,7 +2,7 @@
   "name": "rapto",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sharmaji-2407.github.io",
+  "homepage": "https://sharmaji-2407.github.io/rapto_app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
