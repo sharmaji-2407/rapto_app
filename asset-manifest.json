@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.42112c8e.css",
-    "main.js": "/static/js/main.b35d1cdf.js",
-    "static/js/787.59f0bd96.chunk.js": "/static/js/787.59f0bd96.chunk.js",
-    "static/media/wedding.png": "/static/media/wedding.1e74c986bf8f4540ed0d.png",
-    "static/media/corporate.jpg": "/static/media/corporate.fca3cf4f361612431e58.jpg",
-    "static/media/birthday.jpg": "/static/media/birthday.060f05465723d7185d55.jpg",
-    "static/media/corporate_service.jpg": "/static/media/corporate_service.87265dd373b84dcd1fe2.jpg",
-    "static/media/wedding_service.jpg": "/static/media/wedding_service.1d2dd3e180643464338b.jpg",
-    "static/media/party.jpg": "/static/media/party.0dcdfbd76295dd3edba7.jpg",
-    "static/media/social_event.jpg": "/static/media/social_event.1be8561d3a4b263473a2.jpg",
-    "index.html": "/index.html",
-    "main.42112c8e.css.map": "/static/css/main.42112c8e.css.map",
-    "main.b35d1cdf.js.map": "/static/js/main.b35d1cdf.js.map",
-    "787.59f0bd96.chunk.js.map": "/static/js/787.59f0bd96.chunk.js.map"
+    "main.css": "/rapto_app/static/css/main.42112c8e.css",
+    "main.js": "/rapto_app/static/js/main.60605a80.js",
+    "static/js/787.59f0bd96.chunk.js": "/rapto_app/static/js/787.59f0bd96.chunk.js",
+    "static/media/wedding.png": "/rapto_app/static/media/wedding.1e74c986bf8f4540ed0d.png",
+    "static/media/corporate.jpg": "/rapto_app/static/media/corporate.fca3cf4f361612431e58.jpg",
+    "static/media/birthday.jpg": "/rapto_app/static/media/birthday.060f05465723d7185d55.jpg",
+    "static/media/corporate_service.jpg": "/rapto_app/static/media/corporate_service.87265dd373b84dcd1fe2.jpg",
+    "static/media/wedding_service.jpg": "/rapto_app/static/media/wedding_service.1d2dd3e180643464338b.jpg",
+    "static/media/party.jpg": "/rapto_app/static/media/party.0dcdfbd76295dd3edba7.jpg",
+    "static/media/social_event.jpg": "/rapto_app/static/media/social_event.1be8561d3a4b263473a2.jpg",
+    "index.html": "/rapto_app/index.html",
+    "main.42112c8e.css.map": "/rapto_app/static/css/main.42112c8e.css.map",
+    "main.60605a80.js.map": "/rapto_app/static/js/main.60605a80.js.map",
+    "787.59f0bd96.chunk.js.map": "/rapto_app/static/js/787.59f0bd96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42112c8e.css",
-    "static/js/main.b35d1cdf.js"
+    "static/js/main.60605a80.js"
   ]
 }
